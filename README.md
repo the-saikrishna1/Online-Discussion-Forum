@@ -41,7 +41,7 @@ Node.js and npm
 
 MongoDB (installed locally or access to a MongoDB Atlas cluster)
 1. Clone the Repository
-git clone https://github.com/yourusername/online-discussion-forum.git
+git clone https://github.com/the-saikrishna1/online-discussion-forum.git
 cd online-discussion-forum
 2. Setup the Backend
 cd backend
